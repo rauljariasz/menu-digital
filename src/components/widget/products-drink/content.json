@@ -1,0 +1,58 @@
+{
+  "Hotdog": [
+    {
+      "id": 1,
+      "title": "Anis Cartujo",
+      "category": "Cocktails",
+      "description": "Bebida de sabor realmente dulce destilada del anís de muy alta calidad. Se puede encontrar hasta debajo de las piedras y a un costo muy accesible, resultando incluso más económico que el ron o la cerveza. Generalmente se toma puro y seco, aunque hay una versión embotellada con leche de coco.",
+      "price": 5.99,
+      "images": ["margarita1.jpg", "margarita2.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "Blue label",
+      "category": "Whiskey",
+      "description": "Es un elixir de Jhonny Walker.",
+      "price": 70.99,
+      "images": ["oldfashioned1.jpg", "oldfashioned2.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "5 Estrellas",
+      "category": "Ron",
+      "description": "Bebida sabrosa con limon y Coca-Cola.",
+      "price": 4,
+      "images": ["negroni1.jpg", "negroni2.jpg"]
+    },
+    {
+      "id": 4,
+      "title": "Mal Portada",
+      "description": "Bebida Vinifera para pasarla bien con una jevita",
+      "price": 4,
+      "images": ["tengounaimagen.jpg", "TengoOtraImagen.pendejo"]
+    },
+    {
+      "id": 5,
+      "title": "Polar Light",
+      "description": "Bebida pa despues de las fuma",
+      "price": 0.99,
+      "images": ["tengounaimagen.jpg", "TengoOtraImagen.pendejo"]
+    },
+    {
+      "id": 6,
+      "title": "Santa Teresa",
+      "description": "Esto es para gente seria y de etiqueta",
+      "price": 15,
+      "images": ["tengounaimagen.jpg", "TengoOtraImagen.pendejo"]
+    }
+  ],
+  "Burguer": [
+    {
+      "id": 1,
+      "title": "Santa Teresa",
+      "description": "Esto es para gente seria y de etiqueta",
+      "price": 15,
+      "images": ["tengounaimagen.jpg", "TengoOtraImagen.pendejo"]
+    }
+  ]
+}
